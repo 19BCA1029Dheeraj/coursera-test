@@ -1,0 +1,39 @@
+body{
+background-image: url(bg2.jpg);
+text-align: center;
+font-size: 30px;
+text-decoration: underline;
+
+}
+
+h1{color:rgb(77, 11, 77)}
+h2{color:red;}
+h3{color:red;}
+
+a{
+    text-decoration-color: rgb(243, 121, 8);
+    margin:10px;
+    font-size: 25px;
+    color: rgb(21, 172, 231);
+}
+
+img
+{
+ width: 200px;
+ height: 200px;
+}
+marquee{
+    background: black;
+    color: red;}
+
+
+nav
+{
+    margin-left: 50px;
+    
+    text-align: left;
+}
+div{
+    color:red;
+    margin: 50px;
+}
